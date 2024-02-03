@@ -11,7 +11,7 @@ Aniruddh</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Next <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">30DaysOfNode</a>
+- 🌱 I’m currently learning Next <a href="https://github.com/Ani6107/30-days-of-nodejs-challenge-scaler-2024-" target="blank">30DaysOfNode</a>
 
 - 💬 Ask me about **Reactjs & GCP**
 
