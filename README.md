@@ -5,7 +5,7 @@ Aniruddh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently member of <a href="https://phoenix.tech/griffyn/" target="blank">Google Developer Students Club</a>
+- 🔭 I’m currently member of <a href="https://gdsc.community.dev/u/mj7f9n/#/about" target="blank">Google Developer Students Club</a>
 
 - 🌱 I’m currently Working on Google Cloud
 
