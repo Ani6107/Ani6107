@@ -13,7 +13,7 @@ Aniruddh</a></h1>
 
 - 🤝 Check my <a href="https://anishar2000.vercel.app/" target="blank">Portfolio</a>
 
-- 🌱 I’m currently learning Next <a href="https://github.com/Ani6107/30-days-of-nodejs-challenge-scaler-2024-" target="blank">30DaysOfNode</a>
+- 🌱 I’m currently learning Next <a href="https://github.com/Ani6107/30-days-of-nodejs-challenge-scaler-2024-" target="blank">30DaysOfArrays&LinkedList</a>
 
 - 💬 Ask me about **Reactjs & GCP**
 
